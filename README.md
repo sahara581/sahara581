@@ -10,6 +10,8 @@ I am an indie game creator, website creator, computer graphics creator and illus
 ![Unreal Engine](https://img.shields.io/badge/-Unreal_Engine-000000.svg?logo=UNREALENGINE&style=for-the-badge)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-000000.svg?logo=VISUALSTUDIOCODE&style=for-the-badge)
 ![Scratch](https://img.shields.io/badge/-Scratch-000000.svg?logo=SCRATCH&style=for-the-badge)
+![Blender](https://img.shields.io/badge/-Blender-000000.svg?logo=BLENDER&style=for-the-badge)
+![Scratch](https://img.shields.io/badge/-Scratch-000000.svg?logo=SCRATCH&style=for-the-badge)
 
 ![C#]()
 ![JavaScript]()
