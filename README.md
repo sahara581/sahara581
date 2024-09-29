@@ -53,6 +53,5 @@ The games I have created.
 ![INTEL](https://img.shields.io/badge/-Intel-000000.svg?logo=INTEL&style=for-the-badge)
 
 ## Info
-![](https://github-readme-stats.vercel.app/api?username=sahara581&show_icons=true&locale=en)
-
+![](https://github-readme-stats.vercel.app/api?username=sahara581&show_icons=true&locale=en)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=sahara581&show_icons=true&locale=en&layout=compact)
