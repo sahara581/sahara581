@@ -28,9 +28,4 @@ I am an indie game creator, website creator, computer graphics creator and illus
 ![INTEL](https://img.shields.io/badge/-Intel-000000.svg?logo=INTEL&style=for-the-badge)
 
 ## Addons
-<a href="https://github.com/sahara581">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=sahara581&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/sahara581">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahara581" />
-</a>
+![](https://github-readme-stats.vercel.app/api?username=sahara581&show_icons=true&locale=en)
