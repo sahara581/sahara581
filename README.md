@@ -6,7 +6,12 @@ I am Japanese and not good at English. But I wanted to make the README in Englis
 
 I am an indie game creator, website creator, computer graphics creator and illustrator. I try to be as creative as possible, so call me what you will. At the very least, I am a game creator.
 
-
+<a href="https://github.com/sahara581">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=sahara581&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/sahara581">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahara581" />
+</a>
 
 ![C#](https://img.shields.io/badge/-C_SHARP-000000.svg?logo=C&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000.svg?logo=JAVASCRIPT&style=for-the-badge)
