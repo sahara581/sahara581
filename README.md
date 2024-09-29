@@ -7,6 +7,7 @@ I am Japanese and not good at English. But I wanted to make the README in Englis
 I am an indie game creator, website creator, computer graphics creator and illustrator. I try to be as creative as possible, so call me what you will. At the very least, I am a game creator.
 
 ## Works
+See [README](https://github.com/sahara581/site/blob/main/README.md) in the [site repository](https://github.com/sahara581/site) for instructions.
 #### [Script Editor](https://sahara581.github.io/site/Script/index.html)
 #### [2D Platformer](https://sahara581.github.io/site/PlatformerGame/index.html)
 
