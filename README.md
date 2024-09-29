@@ -20,7 +20,7 @@ See [README](https://github.com/sahara581/site/blob/main/README.md) in the [site
 ## My Games
 * #### [HYPERION](https://unityroom.com/games/hyperion)
   A particularly popular game. You can also play them on mobile phones.<br>
-  This is a game in which the player aims to go higher while moving onto a flowing platform.
+  This is a game in which the player aims to go higher while moving onto a flowing platform.<br>
   Slightly high difficulty.
   
   ![Game Playing Vide](https://os-worker.unityroom.com/unityroom_production/icon/103113/icon_20240824_093225.gif)
