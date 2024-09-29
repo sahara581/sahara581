@@ -6,6 +6,7 @@ I am Japanese and not good at English. But I wanted to make the README in Englis
 
 I am an indie game creator, website creator, computer graphics creator and illustrator. I try to be as creative as possible, so call me what you will. At the very least, I am a game creator.
 
+## Technologies and Tools used
 ![C#](https://img.shields.io/badge/-C_SHARP-000000.svg?logo=C&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000.svg?logo=JAVASCRIPT&style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000.svg?logo=HTML5&style=for-the-badge)
@@ -25,7 +26,7 @@ I am an indie game creator, website creator, computer graphics creator and illus
 ![NVIDIA](https://img.shields.io/badge/-NVIDIA-000000.svg?logo=NVIDIA&style=for-the-badge)
 ![INTEL](https://img.shields.io/badge/-Intel-000000.svg?logo=INTEL&style=for-the-badge)
 
-
+## Addons
 <a href="https://github.com/sahara581">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=sahara581&count_private=true&show_icons=true" />
 </a>
