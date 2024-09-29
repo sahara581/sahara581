@@ -30,6 +30,7 @@ See [README](https://github.com/sahara581/site/blob/main/README.md) in the [site
 
   ![Game Plying Video](https://os-worker.unityroom.com/unityroom_production/icon/95029/icon_20240703_184350.gif)
 * #### [WHAC A MOL](https://unityroom.com/games/wam)
+  When you find a moving part, tap it!<br>
   This is a unique whack-a-mole. You can also play them on mobile phones.<br>
   Operated by drag and tap.
 <br>
