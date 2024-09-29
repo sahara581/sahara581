@@ -27,8 +27,8 @@ See [README](https://github.com/sahara581/site/blob/main/README.md) in the [site
   
   ![Game Playing Video](https://os-worker.unityroom.com/unityroom_production/icon/103113/icon_20240824_093225.gif)
 * #### [UP-DOWN-CLASH!](https://unityroom.com/games/up-down_rocket)
-  Maximum difficulty!<br>
-  Avoid the rocks and go forever!
+  Avoid the rocks and go forever!<br>
+  Maximum difficulty!
   
   This is a unique side-scrolling game. You can also play them on mobile phones.<br>
   Operated by tap only.
