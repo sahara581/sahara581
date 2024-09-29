@@ -14,8 +14,12 @@ At the very least, I am a game creator.
 See [README](https://github.com/sahara581/site/blob/main/README.md) in the [site repository](https://github.com/sahara581/site) for instructions.
 * #### [Script Editor](https://sahara581.github.io/site/Script/index.html)
   The site is in Japanese, with an English explanation in the [README](https://github.com/sahara581/site/blob/main/README.md).
-  <br>
+<br>
+<br>
+
 * #### [2D Platformer](https://sahara581.github.io/site/PlatformerGame/index.html)
+<br>
+<br>
 
 ## My Games
 * #### [HYPERION](https://unityroom.com/games/hyperion)
