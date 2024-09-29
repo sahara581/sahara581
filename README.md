@@ -14,7 +14,7 @@ I am an indie game creator, website creator, computer graphics creator and illus
 ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-000000.svg?logo=VISUALSTUDIOCODE&style=for-the-badge)
 
 ![C#](https://img.shields.io/badge/-C--Sharp-000000.svg?logo=CSHARP&style=for-the-badge)
-![JavaScript]()
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000.svg?logo=JAVASCRIPT&style=for-the-badge)
 ![HTML5]()
 ![CSS3]()
 ![Scratch]()
