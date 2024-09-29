@@ -20,6 +20,5 @@ I am an indie game creator, website creator, computer graphics creator and illus
 ![GIMP](https://img.shields.io/badge/-GIMP-000000.svg?logo=GIMP&style=for-the-badge)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-000000.svg?logo=VISUALSTUDIOCODE&style=for-the-badge)
 
-![ChatGPT](https://img.shields.io/badge/-ChatGPT-000000.svg?logo=GPT&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000.svg?logo=GITHUB&style=for-the-badge)
 ![]()
