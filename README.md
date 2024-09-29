@@ -25,7 +25,9 @@ See [README](https://github.com/sahara581/site/blob/main/README.md) in the [site
   
   ![Game Playing Vide](https://os-worker.unityroom.com/unityroom_production/icon/103113/icon_20240824_093225.gif)
 * #### [UP-DOWN-CLASH!](https://unityroom.com/games/up-down_rocket)
+  This is a unique side-scrolling game. You can also play them on mobile phones.
 * #### [WHAC A MOL](https://unityroom.com/games/wam)
+  This is a unique whack-a-mole. You can also play them on mobile phones.
 <br>
 
 ### [My Account](https://unityroom.com/users/xvo0mbq61sgep8hr4ukj)
