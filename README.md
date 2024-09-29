@@ -12,8 +12,6 @@ I am an indie game creator, website creator, computer graphics creator and illus
 ![Blender](https://img.shields.io/badge/-Blender-000000.svg?logo=BLENDER&style=for-the-badge)
 ![GIMP](https://img.shields.io/badge/-GIMP-000000.svg?logo=GIMP&style=for-the-badge)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-000000.svg?logo=VISUALSTUDIOCODE&style=for-the-badge)
-![Microsoft Edge](https://img.shields.io/badge/-Microsoft_Edge-000000.svg?logo=MICROSOFTEDGE&style=for-the-badge)
-![Microsoft Paint](https://img.shields.io/badge/-Microsoft_Paint-000000.svg?logo=MICROSOFTPAINT&style=for-the-badge)
 
 ![C#]()
 ![JavaScript]()
