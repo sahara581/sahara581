@@ -15,12 +15,10 @@ See [README](https://github.com/sahara581/site/blob/main/README.md) in the [site
 * #### [Script Editor](https://sahara581.github.io/site/Script/index.html)
   The site is in Japanese, with an English explanation in the [README](https://github.com/sahara581/site/blob/main/README.md).
 <br>
-<br>
 
 * #### [2D Platformer](https://sahara581.github.io/site/PlatformerGame/index.html)
 <br>
 <br>
-
 ## My Games
 * #### [HYPERION](https://unityroom.com/games/hyperion)
   A particularly popular game. You can also play them on mobile phones.<br>
