@@ -28,7 +28,8 @@ The games I have created.
 <br>
 <br>
 *Japanese site. No registration required, free.
-
+<br>
+<br>
 
 ## Technologies and Tools used
 ![C#](https://img.shields.io/badge/-C_SHARP-000000.svg?logo=C&style=for-the-badge)
