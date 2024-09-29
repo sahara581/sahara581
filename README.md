@@ -22,7 +22,6 @@ I am an indie game creator, website creator, computer graphics creator and illus
 ![GitHub](https://img.shields.io/badge/-GitHub-000000.svg?logo=GITHUB&style=for-the-badge)
 
 ![Windows](https://img.shields.io/badge/-Windows-000000.svg?logo=WINDOWS&style=for-the-badge)
-
 ![NVIDIA](https://img.shields.io/badge/-NVIDIA-000000.svg?logo=NVIDIA&style=for-the-badge)
 ![INTEL](https://img.shields.io/badge/-Intel-000000.svg?logo=INTEL&style=for-the-badge)
 
