@@ -27,5 +27,5 @@ I am an indie game creator, website creator, computer graphics creator and illus
 ![NVIDIA](https://img.shields.io/badge/-NVIDIA-000000.svg?logo=NVIDIA&style=for-the-badge)
 ![INTEL](https://img.shields.io/badge/-Intel-000000.svg?logo=INTEL&style=for-the-badge)
 
-## Addons
+## Info
 ![](https://github-readme-stats.vercel.app/api?username=sahara581&show_icons=true&locale=en)
