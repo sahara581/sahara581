@@ -14,12 +14,10 @@ See [README](https://github.com/sahara581/site/blob/main/README.md) in the [site
 * #### [2D Platformer](https://sahara581.github.io/site/PlatformerGame/index.html)
 
 ## My Games
-[HYPERION](https://unityroom.com/games/hyperion)
-
+#### [HYPERION](https://unityroom.com/games/hyperion)
 A particularly popular game. You can also play them on mobile phones.
 
-[My Account](https://unityroom.com/users/xvo0mbq61sgep8hr4ukj)
-
+[My Account](https://unityroom.com/users/xvo0mbq61sgep8hr4ukj)<b>
 The games I have produced.
 
 *Japanese site. No registration required, free.
