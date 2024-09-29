@@ -8,8 +8,8 @@ I am an indie game creator, website creator, computer graphics creator and illus
 
 ## Works
 See [README](https://github.com/sahara581/site/blob/main/README.md) in the [site repository](https://github.com/sahara581/site) for instructions.
-#### [Script Editor](https://sahara581.github.io/site/Script/index.html)
-#### [2D Platformer](https://sahara581.github.io/site/PlatformerGame/index.html)
+* [Script Editor](https://sahara581.github.io/site/Script/index.html)
+* [2D Platformer](https://sahara581.github.io/site/PlatformerGame/index.html)
 
 
 ## Technologies and Tools used
