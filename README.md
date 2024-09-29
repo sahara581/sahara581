@@ -12,8 +12,7 @@ See [README](https://github.com/sahara581/site/blob/main/README.md) in the [site
 
   The site is in Japanese, with an English explanation in the [README](https://github.com/sahara581/site/blob/main/README.md).
 
-  
-* [2D Platformer](https://sahara581.github.io/site/PlatformerGame/index.html)
+* #### [2D Platformer](https://sahara581.github.io/site/PlatformerGame/index.html)
   
 
 
