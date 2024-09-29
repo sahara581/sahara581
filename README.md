@@ -10,7 +10,7 @@ I am an indie game creator, website creator, computer graphics creator and illus
 See [README](https://github.com/sahara581/site/blob/main/README.md) in the [site repository](https://github.com/sahara581/site) for instructions.
 * [Script Editor](https://sahara581.github.io/site/Script/index.html)
 
-The site is in Japanese, with an English explanation in the [README](https://github.com/sahara581/site/blob/main/README.md).
+  The site is in Japanese, with an English explanation in the [README](https://github.com/sahara581/site/blob/main/README.md).
 
 * [2D Platformer](https://sahara581.github.io/site/PlatformerGame/index.html)
 
