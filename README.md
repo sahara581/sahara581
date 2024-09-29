@@ -1,5 +1,4 @@
 ![](https://komarev.com/ghpvc/?username=sahara581&label=Profile%20views&color=0e75b6&style=for-the-badge)
-![](https://komarev.com/ghpvc/?username=sahara581&label=Profile%20forks&color=0e75b6&style=for-the-badge)
 
 ## Hi there, I'm sahara.
 
