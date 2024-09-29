@@ -14,9 +14,13 @@ See [README](https://github.com/sahara581/site/blob/main/README.md) in the [site
 * #### [2D Platformer](https://sahara581.github.io/site/PlatformerGame/index.html)
 
 ## My Games
-[Here](https://unityroom.com/users/xvo0mbq61sgep8hr4ukj) are the games I have produced.
+[HYPERION](https://unityroom.com/games/hyperion)
 
-[Here](https://unityroom.com/games/hyperion) is a particularly popular game. You can also play them on mobile phones.
+A particularly popular game. You can also play them on mobile phones.
+
+[My Account](https://unityroom.com/users/xvo0mbq61sgep8hr4ukj)
+
+The games I have produced.
 
 *Japanese site. No registration required, free.
 
