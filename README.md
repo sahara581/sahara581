@@ -25,16 +25,14 @@ See [README](https://github.com/sahara581/site/blob/main/README.md) in the [site
   A particularly popular game. You can also play them on mobile phones.<br>
   This is a game in which the player aims to go higher while moving onto a flowing platform.<br>
   Slightly high difficulty.
-  
-  ![Game Playing Video](https://os-worker.unityroom.com/unityroom_production/icon/103113/icon_20240824_093225.gif)
-* #### [UP-DOWN-CLASH!](https://unityroom.com/games/up-down_rocket)
+
+  * #### [UP-DOWN-CLASH!](https://unityroom.com/games/up-down_rocket)
   Avoid the rocks and go forever!<br>
   Maximum difficulty!
   
   This is a unique side-scrolling game. You can also play them on mobile phones.<br>
   Operated by tap only.
 
-  ![Game Plying Video](https://os-worker.unityroom.com/unityroom_production/icon/95029/icon_20240703_184350.gif)
 * #### [WHAC A MOL](https://unityroom.com/games/wam)
   When you find a moving part, tap it!
   
