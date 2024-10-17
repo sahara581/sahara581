@@ -10,44 +10,10 @@ I am an indie game creator, website creator, computer graphics creator and illus
 I try to be as creative as possible, so call me what you will.
 At the very least, I am a game creator.
 
-## My Web Sites
+## Works
 See [README](https://github.com/sahara581/site/blob/main/README.md) in the [site repository](https://github.com/sahara581/site) for instructions.<br>
 [Here](https://sahara581.github.io/site/services/index.html) is My works site. *Japanese
-* #### [Script Editor](https://sahara581.github.io/site/Script/index.html)
-  The site is in Japanese, with an English explanation in the [README](https://github.com/sahara581/site/blob/main/README.md).
 
-* #### [2D Platformer](https://sahara581.github.io/site/PlatformerGame/index.html)
-
-## My Games
-* #### [HYPERION](https://unityroom.com/games/hyperion)
-  Wherever we high, we go higher!
-  
-  A particularly popular game. You can also play them on mobile phones.<br>
-  This is a game in which the player aims to go higher while moving onto a flowing platform.<br>
-  Slightly high difficulty.
-
-  * #### [UP-DOWN-CLASH!](https://unityroom.com/games/up-down_rocket)
-  Avoid the rocks and go forever!<br>
-  Maximum difficulty!
-  
-  This is a unique side-scrolling game. You can also play them on mobile phones.<br>
-  Operated by tap only.
-
-* #### [WHAC A MOL](https://unityroom.com/games/wam)
-  When you find a moving part, tap it!
-  
-  This is a unique whack-a-mole. You can also play them on mobile phones.<br>
-  Operated by drag and tap.
-<br>
-
-### [My Account](https://unityroom.com/users/xvo0mbq61sgep8hr4ukj)
-The games I have created.
-<br>
-<br>
-<br>
-*Japanese site. No registration required, free.
-<br>
-<br>
 
 ## Technologies and Tools used
 ![C#](https://img.shields.io/badge/-C_SHARP-000000.svg?logo=C&style=for-the-badge)
